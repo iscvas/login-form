@@ -29,9 +29,7 @@
 ## Team
 
 
-| <a href="" target="_blank">**Melika Maleki**</a> |
-| :---: 
-| [![IscVas](https://octodex.github.com/images/femalecodertocat.png)]() 
-| <a href="" target="_blank">**Arta Salahesh**</a> |
-| [![IscVas](https://octodex.github.com/images/Terracottocat_Single.png)]() 
+| <a href="" target="_blank">**Melika Maleki**</a> | <a href="" target="_blank">**Arta Salahesh**</a> |
+|:---:|:---:|
+| [![IscVas](https://octodex.github.com/images/femalecodertocat.png)]() | [![IscVas](https://octodex.github.com/images/Terracottocat_Single.png)]() |
 
